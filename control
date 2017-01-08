@@ -1,0 +1,8 @@
+Package: li.oldman.inspectorplus
+Name: inspectorplus
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Inspector any UIWebView or WKWebview in any App!
+Author: oldman
+Section: Tweaks
